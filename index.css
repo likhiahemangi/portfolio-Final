@@ -59,7 +59,7 @@ i{
     border-radius: 10%;
     margin-left:3rem;
  }
- @media screen and (max-width: 600px) and (min-width: 300px){
+ @media screen and (max-width: 700px) and (min-width: 300px){
 
     header{
         background-image: url(../img/Nature.gif);
@@ -80,7 +80,7 @@ i{
         width: 2rem; 
         height: 1.85rem;
         border-radius: 10%;
-        margin-left:2.5rem;
+        margin-left:1rem;
      }
      h1{
         margin-top : 5rem;
@@ -102,7 +102,7 @@ i{
 
         text-align: center;
         margin-top: 1rem;
-        margin-left: 15rem;
+        margin-left: 10rem;
         padding-top: 2rem;
         font-size: 1.5rem;
          color: black;

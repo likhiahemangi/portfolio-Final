@@ -87,7 +87,7 @@ h3{
     font-size: 1.2rem;
     margin-left: 1rem;
 }
-@media screen and (max-width: 600px) and (min-width: 300px){
+@media screen and (max-width: 700px) and (min-width: 300px){
     .Work_ex{
         display: grid;
         grid-template-columns:  1fr ;
@@ -107,7 +107,7 @@ h3{
         font-weight: bold;
         border: 2px solid #25ca7f;
         display: inline-block;
-        margin-left: 8rem;
+        margin-left: 5rem;
         color: beige;
         padding: 0.5rem;
     }

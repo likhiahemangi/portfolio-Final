@@ -44,7 +44,7 @@
      color: whitesmoke;
      margin-left : 1rem;
  }
- @media screen and (max-width: 600px) and (min-width: 300px){
+ @media screen and (max-width: 700px) and (min-width: 300px){
     .description{
         display: grid;
         grid-template-columns: 1fr ;
