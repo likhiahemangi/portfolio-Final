@@ -95,3 +95,24 @@ i{
        border-bottom-right-radius: 5%;
     }
  }
+ @media screen and (max-width: 1400px) and (min-width: 700px){
+    i{ 
+        text-align: center;
+        margin-top: 0.2rem;
+        padding-top: 2rem;
+        font-size: 1.5rem;
+         color: whitesmoke;
+         margin-left : 30rem;
+     }
+     .contact{
+        margin: 2rem 2rem;
+        display: grid;
+        grid-template-columns: 1fr ;
+        grid-gap: 0.5rem;
+        background-color: #343a40;
+        border-top-left-radius: 5%;
+        border-top-right-radius: 5%;
+        border-bottom-left-radius: 5%;
+       border-bottom-right-radius: 5%;
+    }
+ }
