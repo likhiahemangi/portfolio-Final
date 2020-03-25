@@ -117,7 +117,7 @@ i{
         border-radius: 10%;
      }
  }
- @media screen and (max-width: 1200px) and (min-width: 700px){
+ @media screen and (max-width: 1400px) and (min-width: 700px){
     h1{
         margin-top : 12rem;
         text-align: center;
