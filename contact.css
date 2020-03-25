@@ -76,7 +76,7 @@ i{
         padding-top: 2rem;
         font-size: 1.5rem;
          color: whitesmoke;
-         margin-left : 12rem;
+         margin-left : 9rem;
      }
     .sentance{
         color: #fff;
@@ -116,3 +116,18 @@ i{
        border-bottom-right-radius: 5%;
     }
  }
+ @media screen and (max-width: 1000px) and (min-width: 700px){
+    i{ 
+        text-align: center;
+        margin-top: 0.2rem;
+        padding-top: 2rem;
+        font-size: 1.5rem;
+         color: whitesmoke;
+         margin-left : 22rem;
+     }
+}
+@media screen and (max-width: 1500px) and (min-width: 1000px){
+    i{
+        margin-left:29rem;
+    }
+}
