@@ -9,6 +9,12 @@ body{
     color: darksalmon;
     text-decoration-line: none;
 }
+.linkaero{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 2rem;
+    border-radius: 5%;
+}
 .link:active{
     color: rgb(233, 122, 183);
 }
