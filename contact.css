@@ -91,6 +91,7 @@ i{
     }
     .contact{
         margin: 2rem 2rem;
+        margin-bottom: 2rem;
         display: grid;
         grid-template-columns: 1fr ;
         grid-gap: 1rem;
